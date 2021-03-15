@@ -2,6 +2,14 @@ body {
   background-color: #eaf6f6;
 }
 
+h1 {
+    color: aqua;
+  }
+  
+  h3 {
+      color: blueviolet;
+  }
+  
 hr {
   background-color: none;
   border-color: gray;
@@ -17,6 +25,3 @@ img {
   width: 200px;
 }
 
-h1 {
-  color: aqua;
-}
