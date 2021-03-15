@@ -4,12 +4,12 @@ body {
 
 h1 {
     color: aqua;
-  }
+}
   
-  h3 {
-      color: blueviolet;
-  }
-  
+h3 {
+    color: blueviolet;
+}
+
 hr {
   background-color: none;
   border-color: gray;
@@ -24,4 +24,3 @@ img {
   height: 200px;
   width: 200px;
 }
-
