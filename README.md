@@ -1,4 +1,4 @@
-# Python Discord: Site
+# Meneer Groot
 
 [![Discord][12]][13]
 [![Lint & Test][1]][2]
